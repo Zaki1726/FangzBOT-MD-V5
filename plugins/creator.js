@@ -21,26 +21,26 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-*💌 Nama* : Fangz
-*✉️ Nama RL* : FangzBOT
+*💌 Nama* : Zakky
+*✉️ Nama RL* : Zakky?
 *♂️ Gender* : Laki - laki
 *🕋 Agama* : Islam
-*⏰ Tanggal lahir* : 25 oktober 2007
-*🎨 Umur* : 15
-*🧮 Kelas* : 9
+*⏰ Tanggal lahir* : 25 Agustus 2010
+*🎨 Umur* : 11
+*🧮 Kelas* : 7
 *🧩 Hobby* : Nonton henta*, main game, Recode script
-*💬 Sifat* : Baik, hode, softboy, tydack ramah, g*y
-*🗺️ Tinggal* : Indonesia, jawa, bogor
+*💬 Sifat* : Baik, hode, softboy, tydack ramah, Kocak Gaming
+*🗺️ Tinggal* : Indonesia, jawa, Karawang
 *❤️ Suka* : warnah pink & hitam, trap, waifu wangy, kucing
-*💔 Benci* : anak alay, autis, anak epep, sok asik
+*💔 Benci* : anak alay, autis, anak pabji, sok asik
 
 *- - sᴋɪʟʟs: - -* 
 > JavaScript [70.7%]
 > Python [11.4%]
-> CSS [4.1%]
-> Html [0.9%]
-> Recode [76.8%]
-> Create Webs [88.9%]
+> CSS [56.1%]
+> Html [99.3%]
+> Recode [22.8%]
+> Create Webs [99.9%]
 
 ───────[ SOSIAL MEDIA ]───────
 
@@ -48,8 +48,8 @@ let teksbio = `${htki} *BIODATA* ${htka}
 🐈 *Github:* ${sgh}
 🥏 *Whatsapp* wa.me/${nomorown}
 🌐 *Discord:* Soon
-🌏 *Website:* https://fangzbot.websites.co.in/
-🎶 *Tiktok:* tiktok.com/@fangzjb
+🌏 *Website:* https://s.id/1himr
+🎶 *Tiktok:* -
 
 `
   let teks = ' '
