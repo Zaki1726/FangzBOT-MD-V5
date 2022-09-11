@@ -43,26 +43,26 @@ global.sdc = 'https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini ana gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '088215689772' //Dana
-global.povo = '088215689772' //Ovo
-global.pgopay = '088215689772' //Gopay
-global.ppulsa = '088215689772' //Pulsa 
-global.ppulsa2 = '0895394988123' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
-global.psaweria = 'https://saweria.co/FangzBot' //Saweria
+global.pdana = '083188229366' //Dana
+global.povo = '083188229366' //Ovo
+global.pgopay = '083188229366' //Gopay
+global.ppulsa = '083188229366' //Pulsa 
+global.ppulsa2 = '085817964582' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.psaweria = '-' //Saweria
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '62895394988123' //Nomor Bot mu
-global.nomorown = '6288215689772' //Nomormu
-global.namebot = 'Fangz BOT' //Nama bot mu
-global.nameown = 'Fangz Ganz' //Nama mu
+global.nomorbot = '6283188229366' //Nomor Bot mu
+global.nomorown = '6285817964582' //Nomormu
+global.namebot = 'AzhilBotz' //Nama bot mu
+global.nameown = 'ZakkyGans?' //Nama mu
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6288215689772'], //Owner1
-  ['6285335877178'], //Owner2
-  ['6288215689772'], //Owner3
-  ['6288215689772', 'FANGZ ! 🥶', true] //Ini buat kamu!
+  ['6285817964582'], //Owner1
+  ['6285817964582'], //Owner2
+  ['6285817964582'], //Owner3
+  ['6285817964582', 'Zkii!🍄', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -111,27 +111,27 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 Fangz BOT ⁩இ 」' //Wm
-global.wm2 = '➳༻❀Fangz - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '⫹⫺ Fangz 𝗕𝗢𝗧'
+global.wm = '                「 Zhill Botz 🍄 」' //Wm
+global.wm2 = '➳༻❀Zhill❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm3 = '⫹⫺ Zhill 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '𝗬𝗧: FANGZ BOT' //Titlenya
-global.author = '                ✧ Fangz BOT⁩ ✧' //Wm author
+global.titlebot = 'WELCOME!' //Titlenya
+global.author = '                ✧ Zkii🍄⁩ ✧' //Wm author
 
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
 // INI JUGA GANTI SETERAH MU
-global.thumb = 'https://telegra.ph/file/0b42f219535e17ade5e48.jpg' //Thumbnail nya
-global.thumb2 = 'https://telegra.ph/file/0b42f219535e17ade5e48.jpg'
-global.thumbbc = 'https://telegra.ph/file/0b42f219535e17ade5e48.jpg' //Image Bcgcb
-global.giflogo = 'https://telegra.ph/file/0b42f219535e17ade5e48.jpg'
+global.thumb = 'https://telegra.ph/file/7f7b4f18365e6c849b673.jpg' //Thumbnail nya
+global.thumb2 = 'https://telegra.ph/file/a0ca613d6059545fee2f6.jpg'
+global.thumbbc = 'https://telegra.ph/file/501eb1098bd86b0f7c17e.jpg' //Image Bcgcb
+global.giflogo = 'https://telegra.ph/file/a0ca613d6059545fee2f6.jpg'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*⫘⫘⫘⫘ LOADING ⫘⫘⫘⫘⫘*/
 global.wait = '```▁ ▂ ▄ ▅ ▆ ▇ █ Loading. . .```'
-global.eror = '⸨Acsess Danied⸩'
+global.eror = 'Error 404☠️☣️'
 
 /*⫘⫘⫘⫘ DOCUMENT ⫘⫘⫘⫘⫘*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -140,7 +140,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/0b42f219535e17ade5e48.jpg'
+global.thumbdoc = 'https://telegra.ph/file/7cfd60e5d773500c0c3d8.jpg'
 
 /*⫘⫘⫘⫘ FAKE SIZE ⫘⫘⫘⫘⫘*/
 global.fsizedoc = '99999999999999' // 10TB
@@ -170,8 +170,8 @@ global.htjava = '𖥸'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = '.'
-global.stickauth = `© Fangz BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
+global.stickpack = 'ZhillBotz'
+global.stickauth = `Sticker By @Zakky`
 
 global.multiplier = 38 // The higher, The harder levelup
 
